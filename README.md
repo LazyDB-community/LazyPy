@@ -1,0 +1,2 @@
+# LazyPy
+LazyDB for Python!
